@@ -1,7 +1,7 @@
 ![test](https://www.jugend-forscht-bw.de/wp-content/themes/jufo/images/logo-nordschwarzwald.png)
 
 # Kurzfassung
-In diesem Projekt geht es um die Alarmierung der Schulsanitäter an unserer Schule. Der Lehrer musste zum Sekretariat. Der Schulsanitäter musste ins Sekretariat. Dort bekam er den Raum gesagt und musste dann dorthin. Das war uns zu nervig. Wir wollten etwas Besseres erfinden. Dazu setzen wir einen Raspberry Pi ein. Wir programmieren ihn mit der Programmiersprache Python. Wenn der Alarm ausgelöst wird, wird über einen Lautsprecher ein Ton ausgegeben. Der Raspberry wird in einem Gehäuse untergebracht, damit er von den Schulsanitätern immer mit in das aktuelle Klassenzimmer genommen werden kann.
+In diesem Jugend-forscht-Projekt wird das Alarmierungssystem für Schulsanitäter an einer Schule verbessert. Das bisherige Verfahren erforderte, dass im Falle eines Unfalls während des Unterrichts oder in der Pause ein Schüler den Lehrer informiert, der dann das Sekretariat kontaktiert. Von dort aus wurden die Schulsanitäter per Lautsprecher gerufen und erhielten die Raumangabe. Dieses Verfahren wurde als zu umständlich empfunden, weshalb eine effizientere Lösung entwickelt wurde. Der Ansatz umfasst den Einsatz eines Raspberry Pi als Server und mehrerer ESP32-Geräte als Pager. Zur Programmierung werden C/C++, NodeRed sowie HTML/CSS/JavaScript für die Gestaltung der Webseite verwendet. Im Falle eines Alarms ertönt ein Signalton über einen Buzzer. Die ESP32-Geräte werden in Gehäusen untergebracht, damit die Schulsanitäter sie stets in das jeweilige Klassenzimmer mitnehmen können.
 
 [Website](https://schulsani.github.io)
 
